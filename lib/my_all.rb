@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 def my_all?(collection)
@@ -14,3 +15,6 @@ def my_all?(collection)
     true
   end
 end
+=======
+require 'pry'
+>>>>>>> b2f04450b6e6995103e28d410f45f9dfe4f88471
